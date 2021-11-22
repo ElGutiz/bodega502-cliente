@@ -1,0 +1,16 @@
+{
+    "apps" : [
+       {
+          "name"          : "Bodega 502",
+          "script"        : "npm",
+          "args"          : "run start",
+          "watch"         : false,
+          "cwd"           : "/var/www/html/Bodega502-Proyecto-Ing-Software/AppWeb_Proyecto/bodega502",
+          "out_file"      : "/var/www/html/Bodega502-Proyecto-Ing-Software/AppWeb_Proyecto/bodega502/hooker.out.log",
+          "err_file"      : "/var/www/html/Bodega502-Proyecto-Ing-Software/AppWeb_Proyecto/bodega502/hooker.err.log",
+          "merge_logs"    : true,
+          "instances"     : 1,
+          "exec_mode"     : "cluster"
+       }
+    ]
+  }

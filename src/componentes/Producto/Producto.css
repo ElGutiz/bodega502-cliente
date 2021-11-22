@@ -1,0 +1,38 @@
+#Producto{
+    column-count: 3;
+}
+
+.Ang{
+    background-color: red !important;
+}
+
+.Ang img{
+    width:500px i !important;
+    margin-top:30px !important;
+}
+
+/*.Ima{
+    background-color: blue !important;
+}*/
+
+.Ima img{
+    width:100% !important;
+    height: 100% !important;
+}
+
+.Des{
+   /* background-color: green !important;*/
+    font-size: 30px;
+    font-family: sans-serif;
+    text-align: left;
+}
+
+img{
+    width: 50px !important;
+    height: 50px !important;
+}
+
+.Rec{
+    /*background-color: black !important;*/
+    font-size: 72px !important;
+}

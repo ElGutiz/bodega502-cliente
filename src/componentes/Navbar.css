@@ -1,0 +1,20 @@
+.logo{
+    height:10vh;
+    width: 15vw;
+}
+
+.mr-sm-2{
+    width:400px !important;
+    height:50px !important
+}
+
+
+.icono{
+    width:50px !important;
+    height:50px !important;
+    margin-left:5px !important;
+}
+
+.SearchBtn{
+    color:white !important
+}

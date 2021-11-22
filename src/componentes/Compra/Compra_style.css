@@ -1,0 +1,41 @@
+.main_div_compra{
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 0;
+    height: 1200px;
+}
+
+.compra_grid_row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.compra_grid_column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+}
+
+.return_button {
+    background-color: rgb(41, 158, 226);
+}
+
+.return_button:hover {
+    background-color: rgb(209, 228, 238);
+    color: black;
+    border-color: rgb(255, 255, 255);
+    border-width: 1px;
+}
+
+.venta_button {
+    background-color: rgb(226, 167, 41);
+}
+
+.venta_button:hover {
+    background-color: rgb(238, 228, 206);
+    color: black;
+    border-color: rgb(255, 255, 255);
+    border-width: 1px;
+}
